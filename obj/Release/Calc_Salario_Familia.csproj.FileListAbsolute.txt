@@ -1,0 +1,10 @@
+C:\Users\eduar\source\repos\Calc_Salario_Familia\bin\Release\Calc_Salario_Familia.exe.config
+C:\Users\eduar\source\repos\Calc_Salario_Familia\bin\Release\Calc_Salario_Familia.exe
+C:\Users\eduar\source\repos\Calc_Salario_Familia\bin\Release\Calc_Salario_Familia.pdb
+C:\Users\eduar\source\repos\Calc_Salario_Familia\obj\Release\Calc_Salario_Familia.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\Calc_Salario_Familia\obj\Release\Calc_Salario_Familia.Form1.resources
+C:\Users\eduar\source\repos\Calc_Salario_Familia\obj\Release\Calc_Salario_Familia.Properties.Resources.resources
+C:\Users\eduar\source\repos\Calc_Salario_Familia\obj\Release\Calc_Salario_Familia.csproj.GenerateResource.cache
+C:\Users\eduar\source\repos\Calc_Salario_Familia\obj\Release\Calc_Salario_Familia.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Calc_Salario_Familia\obj\Release\Calc_Salario_Familia.exe
+C:\Users\eduar\source\repos\Calc_Salario_Familia\obj\Release\Calc_Salario_Familia.pdb
